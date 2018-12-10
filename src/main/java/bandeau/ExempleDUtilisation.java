@@ -9,7 +9,7 @@ public class ExempleDUtilisation {
     public static void main(String[] args) {
 	    new ExempleDUtilisation().exemple();
     }
-    
+   /* J'ai fait une modif */
     public void exemple() {
         Font font = monBandeau.getFont();
         Color back = monBandeau.getBackground();
